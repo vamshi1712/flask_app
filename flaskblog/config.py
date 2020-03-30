@@ -8,6 +8,6 @@ class Config(object):
 	MAIL_SERVER = 'smtp.googlemail.com'
 	MAIL_PORT = 587
 	MAIL_USE_TLS = 587
-	MAIL_USERNAME = '16h61a05j3@cvsr.ac.in'
-	MAIL_PASSWORD = '9000171730'
+	MAIL_USERNAME = ''
+	MAIL_PASSWORD = ''
 
